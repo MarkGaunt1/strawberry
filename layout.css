@@ -1,0 +1,62 @@
+.sidebars {
+    margin:5px;
+    height: 160px;
+    width: 150px;
+  }
+  
+  #wrapper {
+    margin:5px;
+    width: 700px;
+  }
+  
+  #Header {
+    margin: 5px;
+      background: green;
+      float: right;
+      text-align: left;
+      width:690px;
+    height: 75px;
+  }
+  
+  #Logo {
+    background: green; 
+      float: left;
+      width: 20%;
+    height: 75px;
+  }
+  
+  #left {
+    float: left;
+    background: url(http://www.strawberryrecruitment.com/wp-content/themes/strawberryrecruitment/img/bg4.jpg);
+    background-size:100% 100%;
+  }
+  
+  #body {
+    margin: 5px;
+    background: url(https://thumbs.dreamstime.com/b/strawberry-27538859.jpg);
+    background-size: 100% 100%;
+      float: left;
+      height: 160px;
+      width: 370px;
+      color:white;
+      text-align: center;
+  }
+  
+  #right {
+    float: right;
+  }
+  
+  #footer {
+    margin-top:5px;
+    margin-left:165px;
+    margin-bottom: 5px;
+    background: green;
+    float: left;
+    width:370px;
+    height: 50px;
+    text-align: center;
+  }
+  
+  a {
+    color: white;
+  }
